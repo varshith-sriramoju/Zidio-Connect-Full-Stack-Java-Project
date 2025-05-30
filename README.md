@@ -14,7 +14,7 @@ choose chart types, and generate downloadable graphs. Each user's history of upl
 and visible on their dashboard. Admin can manage users and data usage. The platform will optionally
 integrate AI APIs to provide smart insights or summary reports from the uploaded data
 
-## **Project Objectives**
+## **Project Objectives:**
 
 1.Facilitate seamless
 communication between students
@@ -29,7 +29,7 @@ manage their applications
 4.Provide admin-level control for
 moderation and analytics.
 
-## **Tech Stack & Tools**
+## **Tech Stack & Tools:**
 
 ### Frontend
 
@@ -53,7 +53,7 @@ Postman,
 Git/GitHub,
 Cloudinary
 
-## **Key Modules**
+## **Key Modules:**
 
 ### **Authentication Module**
 
