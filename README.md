@@ -84,5 +84,3 @@ Cloudinary
 * Listing, searching, and filtering opportunities
 * Bookmarking options
 * Notifications and updates
-
-
